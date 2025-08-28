@@ -6,7 +6,7 @@ These barriers inspired me to create **Youth Voter**, an app that helps to remov
 
 
 <p align="center">
-  <img src="Youth Voter UI.png" width="700" alt="Youth Voter User Interface Design">
+  <img src="Youth Voter UI.png" width="800" alt="Youth Voter User Interface Design">
 </p>
 
 ---
@@ -76,5 +76,5 @@ Let’s make 2024 the year youth turnout breaks records.
 Thank you for reading!
 
 <p align="center">
-  <img src="Youth Voter Main Img.jpg" width="700" alt="Youth Voter User Interface Design">
+  <img src="Youth Voter Main Img.jpg" width="800" alt="Youth Voter User Interface Design">
 </p>
