@@ -4,6 +4,15 @@ In the 2020 election, only **50% of eligible youth voters** cast ballots—despi
 
 These barriers inspired me to create **Youth Voter**—an app that lowers the threshold for young people to get involved in elections.
 
+
+<p align="center">
+  <img src="Youth Voter UI.png" width="400" alt="Youth Voter User Interface Design">
+</p>
+
+<p align="center">
+  <img src="Youth Voter Main Img.png" width="400" alt="Youth Voter User Interface Design">
+</p>
+
 ---
 
 ### 👋 Meet the Developer
