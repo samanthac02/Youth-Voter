@@ -1,8 +1,8 @@
 ## 🗳️ Youth Voter · *Congressional App Challenge – 2nd Place*
 
-In the 2020 election, only **50% of eligible youth voters** cast ballots—despite it being the highest rate of youth participation ever recorded. According to CIRCLE at Tufts University, youth voter turnout was **17 percentage points lower** than the general turnout. In their book *Making Young Voters*, John Holbein and D. Sunshine Hillygus attribute this gap to three core barriers: lack of information, limited political interest, and difficulty registering.
+In the 2020 election, only **50% of eligible youth voters** cast ballots despite it being the highest rate of youth participation ever recorded. According to CIRCLE at Tufts University, youth voter turnout was **17 percentage points lower** than the general turnout. In their book *Making Young Voters*, John Holbein and D. Sunshine Hillygus attribute this gap to three core barriers: lack of information, limited political interest, and difficulty registering.
 
-These barriers inspired me to create **Youth Voter**—an app that lowers the threshold for young people to get involved in elections.
+These barriers inspired me to create **Youth Voter**, an app that helps to remove the barriers for young people to get involved in elections.
 
 
 <p align="center">
