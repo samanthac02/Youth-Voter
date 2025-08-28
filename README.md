@@ -6,11 +6,11 @@ These barriers inspired me to create **Youth Voter**—an app that lowers the th
 
 
 <p align="center">
-  <img src="Youth Voter UI.png" width="400" alt="Youth Voter User Interface Design">
+  <img src="Youth Voter UI.png" width="700" alt="Youth Voter User Interface Design">
 </p>
 
 <p align="center">
-  <img src="Youth Voter Main Img.png" width="400" alt="Youth Voter User Interface Design">
+  <img src="Youth Voter Main Img.jpg" width="700" alt="Youth Voter User Interface Design">
 </p>
 
 ---
